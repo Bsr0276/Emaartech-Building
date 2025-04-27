@@ -5,6 +5,10 @@ Farklı cihazlarda sorunsuz çalışan bir yapı oluşturulmuştur. Bootstrap sa
 
 ## 📸 Proje Önizlemesi
 
+![Emlak-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/09cc0ef0-8381-4227-b6aa-aa0695867274)
+
+
+
 <br/><br/>
 
 ## 🚀 Özellikler
